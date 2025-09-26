@@ -1,3 +1,7 @@
+I have deleted the mongo curl from properties because I was using my companies qa cluster as Mongo atlas was having issues
+on their website
+Sorry but please add one mongo db at your end to make this working
+
 Curl that shows transactions working
 
 curl --location 'http://localhost:8080/order/with-payments' \
